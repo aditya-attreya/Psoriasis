@@ -159,8 +159,8 @@ Prerequisites
 
 Local Installation
 1.Clone the repository
-git clone https://github.com/yourusername/psoriasis-cdss.git
-cd psoriasis-cdss
+git clone https://github.com/aditya-attreya/Psoriasis_Diagnostic_Matrix.git
+cd Psoriasis_Diagnostic_Matrix
 
 2.Create a virtual environment (recommended)
 python -m venv venv
